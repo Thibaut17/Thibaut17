@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Thibaut
+
+I'm a student in devlopment. I use C, java, python, PHP, HTML, CSS, LaTeX and bash.
 
 <!--
 **Thibaut17/Thibaut17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
